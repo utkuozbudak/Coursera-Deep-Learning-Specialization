@@ -3,8 +3,8 @@ Instructor: [Andrew Ng] (https://www.andrewng.org/)
 The base code, images, and diagrams are taken from [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
 
 ## Programming Assignments
-* 1. Python Basics with Numpy (Week 2)
-* 2. Logistic Regression with A Neural Network Mindset (Week 2)
-* 3. Planar Data Classfication with One Hidden Layer (Week 3)
-* 4. Building Your Deep Neural Network: Step by Step (Week 4)
-* 5. Deep Neural Network for Image Classification (Week 4)
+* Python Basics with Numpy (Week 2)
+* Logistic Regression with A Neural Network Mindset (Week 2)
+* Planar Data Classfication with One Hidden Layer (Week 3)
+* Building Your Deep Neural Network: Step by Step (Week 4)
+* Deep Neural Network for Image Classification (Week 4)
