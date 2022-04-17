@@ -3,7 +3,7 @@ Instructor: [Andrew Ng](https://www.andrewng.org/)
 
 The base code, images, and diagrams are taken from [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
 
-# Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+## [Course](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) 1: Neural Networks and Deep Learning
 ## Programming Assignments
 * [Python Basics with Numpy (Week 2)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%202/Python%20Basics%20with%20Numpy/Python_Basics_with_Numpy.ipynb)
 * [Logistic Regression with A Neural Network Mindset (Week 2)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%20Regression%20with%20A%20Neural%20Network%20Mindset/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
