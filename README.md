@@ -1,4 +1,4 @@
-# This repository includes my work solutions the programming assignments of the Coursera's Deep Learning Specialization offered by [deeplearning.ai](https://www.deeplearning.ai/).
+# This repository includes my work solutions for the programming assignments of Coursera's Deep Learning Specialization offered by [deeplearning.ai](https://www.deeplearning.ai/).
 Instructor: [Andrew Ng](https://www.andrewng.org/)
 
 The base code, images, and diagrams are taken from [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
