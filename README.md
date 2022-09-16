@@ -3,7 +3,7 @@ Instructor: [Andrew Ng](https://www.andrewng.org/)
 
 The base code, images, and diagrams are taken from [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
 
-## [Course 1](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning): Neural Networks and Deep Learning
+## [Course 1: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
 ## Programming Assignments
 * [Python Basics with Numpy (Week 2)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%202/Python%20Basics%20with%20Numpy/Python_Basics_with_Numpy.ipynb)
 * [Logistic Regression with A Neural Network Mindset (Week 2)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%20Regression%20with%20A%20Neural%20Network%20Mindset/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
@@ -11,4 +11,10 @@ The base code, images, and diagrams are taken from [Deep Learning Specialization
 * [Building Your Deep Neural Network: Step by Step (Week 4)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20Your%20Deep%20Neural%20Network/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 * [Deep Neural Network for Image Classification (Week 4)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20for%20Image%20Classification/Deep%20Neural%20Network%20-%20Application.ipynb)
 
-## [Course 2]
+## [Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
+## Programming Assignments
+* [Initialization (Week 1)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/W1A1/Initialization.ipynb)
+* [Regularization (Week 1)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/W1A2/Regularization.ipynb)
+* [Gradient Checking (Week 1)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/W1A3/Gradient_Checking.ipynb)
+* [Optimization Methods (Week 2)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/W2A1/Optimization_methods.ipynb)
+* [TensorFlow Introduction (Week 3)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/W3A1/Tensorflow_introduction.ipynb)
