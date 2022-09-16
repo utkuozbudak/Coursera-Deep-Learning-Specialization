@@ -10,3 +10,5 @@ The base code, images, and diagrams are taken from [Deep Learning Specialization
 * [Planar Data Classfication with One Hidden Layer (Week 3)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%203%20/Planar%20Data%20Classification/Planar_data_classification_with_one_hidden_layer.ipynb)
 * [Building Your Deep Neural Network: Step by Step (Week 4)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20Your%20Deep%20Neural%20Network/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 * [Deep Neural Network for Image Classification (Week 4)](https://nbviewer.org/github/utkuozbudak/Coursera-Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20for%20Image%20Classification/Deep%20Neural%20Network%20-%20Application.ipynb)
+
+## [Course 2]
